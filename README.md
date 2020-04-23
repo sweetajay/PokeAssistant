@@ -1,3 +1,9 @@
+# Deprecation Notice
+Consider this project dead.
+
+Initially, this bot was created for an entirely different purpose. I was happy about people contributing and having fun in general. But certain ones have moved from friendly to terribly annoying, weird stalkers, scammers and spammers. Sadly, shutting down this project is the only permanent solution.
+
+To the weird ones: DO NOT EVER GO INTO MY DIRECT MESSAGES. DO NOT MENTION ME. DO NOT GO INTO ALL OF MY SERVERS AND TRY TO GET MY ATTENTION. STOP OFFERING MONEY FOR ME TO HELP YOU. **I WILL NOT.**
 # PokeAssistant
 PokeAssistant is a bot aimed to help Pokecord players. It will tell you what Pokemon it is whenever Pokecord spawns one. As such, you no longer have to rack your brains or even search Google. Sometimes, you may just miss a rare Pokemon like this.
 ### How does it work?
